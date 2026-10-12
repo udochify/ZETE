@@ -1,5 +1,5 @@
 # ZETE
-ZETE is an enhanced fuzzy commitment scheme that utilizes a zero- knowledge proof.
+ZETE is an enhanced fuzzy commitment scheme that utilizes a zero-knowledge (zk) proof.
 
 <b>It comprises 3 applications:</b>
 
@@ -7,7 +7,7 @@ ZETE is an enhanced fuzzy commitment scheme that utilizes a zero- knowledge proo
 
 <b>2.</b> Python Application – For Face recognition and interfacing the Web application with the Go ZK application
 
-<b>3.</b> Go ZK Application – For generating and verifying proofs.
+<b>3.</b> Go ZK Application – For generating and verifying zk proofs.
 
 <b>Prerequisite</b>
 
