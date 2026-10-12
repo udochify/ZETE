@@ -3,11 +3,27 @@ ZETE is an enhanced fuzzy commitment scheme that utilizes a zero- knowledge proo
 
 <b>It comprises 3 applications:</b>
 
-<b>1.</b> ZETE Laravel Web Application – For UI and interfacing with users
+<b>1.</b> Laravel 12 Web Application – For UI and interfacing with users
 
 <b>2.</b> Python Application – For Face recognition and interfacing the Web application with the Go ZK application
 
 <b>3.</b> Go ZK Application – For generating and verifying proofs.
+
+<b>Prerequisite</b>
+
+<b>1.</b> Laravel 12
+
+<b>2.</b> Conda 25.7
+
+<b>3.</b> Go 1.26.1
+
+<b>Preinstallation Instruction</b>
+
+<b>1.</b> See <a href="https://laravel.com/framework/docs/12.x/installation">instructions on how to setup Composer and Laravel 12</a>
+
+<b>2.</b> See <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html">instructions on how to install and setup Conda</a>
+
+<b>3.</b> See <a href="https://go.dev/doc/install">instructions on how to install and setup Go</a>
 
 <b>Installation Instructions:</b>
 
