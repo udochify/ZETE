@@ -25,6 +25,16 @@ ZETE is an enhanced fuzzy commitment scheme that utilizes a zero-knowledge (zk) 
 
 <b>3.</b> See <a href="https://go.dev/doc/install">instructions on how to install and setup Go</a>
 
+<b>4.</b> Download pretrained Adaface model <a href="https://huggingface.co/minchul/cvlface_adaface_ir101_webface12m">here</a>
+
+<b>5.</b> Create new folder named "pretrained" in the folder "zete/adaface/"
+
+	cd zete/adaface
+	
+	mkdir pretrained
+
+<b>6.</b> Copy the downloaded model into the "pretrained" folder
+
 <b>Installation Instructions:</b>
 
 <b>1.</b> Run the Laravel Web Application
