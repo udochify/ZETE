@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 308 100" width="100%" height="100%">
+  <g fill="#000000">
+    <!-- Z (Width: 68px, x: 0 to 68) -->
+    <path d="M 0 0 H 68 V 22 L 28 78 H 68 V 100 H 0 V 78 L 40 22 H 0 Z" />
+    
+    <!-- E (Width: 68px, x: 80 to 148) -->
+    <path d="M 80 0 H 148 V 22 H 102 V 39 H 140 V 61 H 102 V 78 H 148 V 100 H 80 Z" />
+    
+    <!-- T (Width: 68px, x: 160 to 228, Trunk width: 22px) -->
+    <path d="M 160 0 H 228 V 22 H 205 V 100 H 183 V 22 H 160 Z" />
+    
+    <!-- E (Width: 68px, x: 240 to 308) -->
+    <path d="M 240 0 H 308 V 22 H 262 V 39 H 300 V 61 H 262 V 78 H 308 V 100 H 240 Z" />
+  </g>
+</svg>

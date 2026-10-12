@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 535 150" width="100%" height="100%">
+  <g fill="#000000">
+    <!-- Z -->
+    <path d="M 50 30 H 140 V 55 L 85 105 H 140 V 130 H 50 V 105 L 105 55 H 50 Z" />
+    
+    <!-- E -->
+    <path d="M 165 30 H 255 V 55 H 190 V 75 H 240 V 95 H 190 V 105 H 255 V 130 H 165 Z" />
+    
+    <!-- T -->
+    <path d="M 280 30 H 370 V 55 H 337.5 V 130 H 312.5 V 55 H 280 Z" />
+    
+    <!-- E -->
+    <path d="M 395 30 H 485 V 55 H 420 V 75 H 470 V 95 H 420 V 105 H 485 V 130 H 395 Z" />
+  </g>
+</svg>

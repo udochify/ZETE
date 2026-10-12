@@ -1,0 +1,1000 @@
+ 1002  php artisan serve
+ 1003  cd zete/
+ 1004  npm run dev
+ 1005  clear
+ 1006  php artisan serve
+ 1007  php artisan serve --host=0.0.0.0
+ 1008  php artisan serve --host=10.30.127.237
+ 1009  npm run build
+ 1010  php artisan serve --host=10.30.127.237
+ 1011  php artisan serve -
+ 1012  php artisan serve
+ 1013  php artisan serve --host=10.30.127.237
+ 1014  npm run build
+ 1015  php artisan serve --host=10.30.127.237
+ 1016  php artisan optimimize:clear
+ 1017  php artisan optimize:clear
+ 1018  php artisan serve --host=10.30.127.237
+ 1019  php artisan optimize:clear
+ 1020  php artisan serve --host=0.0.0.0
+ 1021  php artisan optimize:clear
+ 1022  php artisan serve --host=0.0.0.0
+ 1023  php artisan optimize:clear
+ 1024  php artisan serve --host=0.0.0.0
+ 1025  php artisan serve --host=https://0.0.0.0
+ 1026  php artisan serve --host=0.0.0.0
+ 1027  php artisan optimize:clear
+ 1028  php artisan serve --host=0.0.0.0
+ 1029  php artisan optimize:clear
+ 1030  php artisan serve --host=0.0.0.0
+ 1031  cd zete/
+ 1032  npm run dev
+ 1033  npm run dev -- --host
+ 1034  npm run build
+ 1035  npm install @vitejs/plugin-basic-ssl --save-dev
+ 1036  npm run build
+ 1037  npm run dev
+ 1038  npm run build
+ 1039  npm run dev
+ 1040  npm run build
+ 1041  npm run dev
+ 1042  npm run build
+ 1043  npm run dev
+ 1044  php artisan route:list
+ 1045  npm run build
+ 1046  ipconfig | findstr IPv4
+ 1047  ifconfig | findstr IPv4
+ 1048  iwconfig
+ 1049  iconfig
+ 1050  sudo apt update
+ 1051  sudo apt upgrade
+ 1052  ifconfig
+ 1053  sudo apt install net-tools
+ 1054  ifconfig
+ 1055  ifconfig | findstr IPv4
+ 1056  ifconfig | grep IPv4
+ 1057  sudo ufw
+ 1058  sudo ufw disable
+ 1059  ifconfig
+ 1060  sudo apt install caddy
+ 1061  snap install caddy
+ 1062  caddy reverse-proxy --from 10.42.0.1:443 --to 127.0.0.1:8000
+ 1063  sudo caddy reverse-proxy --from 10.42.0.1:443 --to 127.0.0.1:8000
+ 1064  npx localtunnel --port 8000
+ 1065  caddy reverse-proxy --from 10.42.0.1:443 --to 127.0.0.1:8000
+ 1066  sudo caddy reverse-proxy --from 10.42.0.1:443 --to 127.0.0.1:8000
+ 1067  clear
+ 1068  php artisan serve
+ 1069  php artisan install:api
+ 1070  php artisan boost:install
+ 1071  php artisan install:api
+ 1072  php artisan serve
+ 1073  conda activate adaface
+ 1074  conda deactivate
+ 1075  php artisan serve
+ 1076  clear
+ 1077  php artisan serve
+ 1078  clear
+ 1079  npm run build
+ 1080  cd zete
+ 1081  cd adaface/
+ 1082  ls
+ 1083  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1084  conda activate adaface
+ 1085  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1086  clear
+ 1087  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1088  clear
+ 1089  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1090  clear
+ 1091  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1092  conda deactivate 
+ 1093  conda activate adafae
+ 1094  conda activate adaface
+ 1095  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1096  conda deactivate
+ 1097  conda env list
+ 1098  deactivate .venv
+ 1099  clear
+ 1100  conda activate adaface
+ 1101  pip install fastapi uvicorn python-multipart
+ 1102  cd AdaFace-gamelab/
+ 1103  conda deactivate
+ 1104  cd zete/adaface/
+ 1105  conda activate adaface
+ 1106  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1107  cd zete/
+ 1108  php artisan serve
+ 1109  npm run build
+ 1110  php artisan serve
+ 1111  go version
+ 1112  sudo -
+ 1113  sudo -i
+ 1114  ls -la /usr/local/
+ 1115  export PATH=$PATH:/usr/local/go/bin
+ 1116  go version
+ 1117  deactivate
+ 1118  clear
+ 1119  cd zete/adaface/
+ 1120  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1121  conda activate adaface
+ 1122  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1123  cd ..
+ 1124  cd zk
+ 1125  history | grep go
+ 1126  go run .
+ 1127  go version
+ 1128  export PATH=$PATH:/usr/local/go/bin
+ 1129  go version
+ 1130  go run .
+ 1131  clear
+ 1132  cd zete/
+ 1133  php artisan serve
+ 1134  npm run build
+ 1135  php artisan serve
+ 1136  cd zete/
+ 1137  npm run build
+ 1138  cd zete/
+ 1139  cd zk
+ 1140  clear
+ 1141  history | grep go
+ 1142  clear
+ 1143  go run .
+ 1144  clear
+ 1145  go run .
+ 1146  clear
+ 1147  go run .
+ 1148  cd zete/
+ 1149  npm run build
+ 1150  npm run dev
+ 1151  npm run build
+ 1152  mysql
+ 1153  mysql -u root
+ 1154  history | grep mysql
+ 1155  sudo mysql
+ 1156  mysql -u root -p yroP9&T
+ 1157  mysql -u root -p "yroP9&T"
+ 1158  mysql -u root -p
+ 1159  php artisan migrate
+ 1160  mysql -u udochify -p
+ 1161  conda activate adaface
+ 1162  cd ..
+ 1163  cd adaface/
+ 1164  pip install httpx
+ 1165  cd ../zk/
+ 1166  go get github.com/gin-gonic/gin
+ 1167  go mod tidy
+ 1168  go version
+ 1169  go mod tidy
+ 1170  go get github.com/consensys/gnark
+ 1171  clear
+ 1172  cd ..
+ 1173  clear
+ 1174  php artisan serve
+ 1175  php artisan make:migration add_zkp_columns_to_users_table
+ 1176  php artisan serve
+ 1177  npm run build
+ 1178  php artisan serve
+ 1179  clear
+ 1180  php artisan serve
+ 1181  npm run build
+ 1182  php artisan serve
+ 1183  npm run build
+ 1184  php artisan serve
+ 1185  npm run build
+ 1186  php artisan serve
+ 1187  npm run build
+ 1188  php artisan serve
+ 1189  php artisan clear:config
+ 1190  php artisan config:clear
+ 1191  history | grep artisa
+ 1192  php artisan optimize:clear
+ 1193  php artisan serve
+ 1194  cd adaface/
+ 1195  clear
+ 1196  conda activate adaface
+ 1197  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1198  clear
+ 1199  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1200  clear
+ 1201  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1202  clear
+ 1203  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1204  cd zete/adaface/
+ 1205  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1206  conda activate adaface
+ 1207  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1208  cd zete
+ 1209  npm run build
+ 1210  cd zete/zk/
+ 1211  history | grep go
+ 1212  clear
+ 1213  go run .
+ 1214  cd zete
+ 1215  clear
+ 1216  php artisan serve
+ 1217  php artisan route:list
+ 1218  php artisan serve
+ 1219  cd zete/
+ 1220  npm run build
+ 1221  history | grep iPht48$%o
+ 1222  mysql -u udochify -p
+ 1223  cd zete/
+ 1224  php artisan serve
+ 1225  npm run build
+ 1226  php artisan serve
+ 1227  php artisan optimize:clear
+ 1228  php artisan serve
+ 1229  npm run build
+ 1230  php artisan serve
+ 1231  php artisan optimize:clear
+ 1232  npm run build
+ 1233  php artisan serve
+ 1234  npm run build
+ 1235  php artisan serve
+ 1236  npm run build
+ 1237  php artisan serve
+ 1238  npm run build
+ 1239  php artisan serve
+ 1240  php artisan optimize:clear
+ 1241  npm run build
+ 1242  php artisan serve
+ 1243  php artisan optimize:clear
+ 1244  npm run build
+ 1245  php artisan serve
+ 1246  npm run build
+ 1247  php artisan optimize:clear
+ 1248  npm run build
+ 1249  php artisan serve
+ 1250  npm run build
+ 1251  php artisan serve
+ 1252  php artisan optimize:clear
+ 1253  npm run build
+ 1254  php artisan serve
+ 1255  php artisan optimize:clear
+ 1256  npm run build
+ 1257  php artisan serve
+ 1258  npm run build
+ 1259  php artisan serve
+ 1260  php artisan migrate:rollback
+ 1261  php artisan migrate
+ 1262  php artisan optimize:clear
+ 1263  npm run build
+ 1264  php artisan serve
+ 1265  npm run build
+ 1266  php artisan serve
+ 1267  composer dump-autoload
+ 1268  php artisan serve
+ 1269  cd zete/zk/
+ 1270  go run .
+ 1271  cd zete/adaface/
+ 1272  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1273  conda activate adaface
+ 1274  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1275  cd zete/
+ 1276  npm run build
+ 1277  cd zete/zk/
+ 1278  go run .
+ 1279  cd zete/
+ 1280  clear
+ 1281  cd zete/
+ 1282  npm run build
+ 1283  php artisan serve
+ 1284  cd zete/adaface/
+ 1285  conda activate adaface
+ 1286  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1287  clear
+ 1288  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1289  clear
+ 1290  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1291  cd zete
+ 1292  php artisan serve
+ 1293  cd zete/adaface/
+ 1294  conda activate adaface
+ 1295  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1296  cd zete
+ 1297  mysql -u udo -p 
+ 1298  mysql -u udochify -p 
+ 1299  cd zete/zk
+ 1300  go run .
+ 1301  cd zete/
+ 1302  php artisan serve
+ 1303  cd ../udosharedesk-2025/
+ 1304  php artisan serve
+ 1305  npm run build
+ 1306  php artisan serve
+ 1307  npm run build
+ 1308  php artisan serve
+ 1309  npm run build
+ 1310  cd zete/adaface/
+ 1311  conda activate adaface
+ 1312  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1313  cd zete/zk/
+ 1314  go run .
+ 1315  cd zete/
+ 1316  mysql -u udochify -p
+ 1317  ssh unix.ncl.ac.uk -l c4058520
+ 1318  ssh -L 5902:localhost:5902 c4058520@sage-303726.ncl.ac.uk
+ 1319  ssh c4058520@sage-303726.ncl.ac.uk
+ 1320  ssh -L 5902:localhost:5902 c4058520@sage-303726.ncl.ac.uk
+ 1321  history 
+ 1322  history | grep ssh
+ 1323  ssh -L 5902:localhost:5902 c4058520@sage-303726.ncl.ac.uk
+ 1324  cd zete
+ 1325  npm run build
+ 1326  php artisan serve
+ 1327  cd zete/adaface/
+ 1328  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1329  conda activate adaface
+ 1330  uvicorn api:app --host 127.0.0.1 --port 7000
+ 1331  cd zete/zk/
+ 1332  go run .
+ 1333  deactivate
+ 1334  cd AdaFace-gamelab/
+ 1335  deactivate
+ 1336  conda activate adaface
+ 1337  python extractor.py 
+ 1338  python evaluator.py
+ 1339  python extractor.py 
+ 1340  python evaluator.py
+ 1341  python extractor.py 
+ 1342  python evaluator.py
+ 1343  cd unlinkability-metric/
+ 1344  python evaluateUnlinkability_test.py 
+ 1345  python evaluateUnlinkability_test.py matedScores.hdf5 nonMatedScores.hdf5 myplot.png 
+ 1346  f source /home/udochify/Desktop/ZK/.venv/bin/activate
+ 1347  cd AdaFace-gamelab/
+ 1348  python extractor.py
+ 1349  conda activate adaface
+ 1350  python extractor.py
+ 1351  clear
+ 1352  python extractor.py
+ 1353  python evaluator.py 
+ 1354  python fuzzy_zk_ldpc.py 
+ 1355  clear
+ 1356  python fuzzy_zk_ldpc.py 
+ 1357  cd AdaFace-gamelab/
+ 1358  deactivate
+ 1359  python extractor.py 
+ 1360  conda activate adaface
+ 1361  python extractor.py 
+ 1362  clear
+ 1363  python extractor.py 
+ 1364  python evaluator.py
+ 1365  python fuzzy_zk_ldpc.py 
+ 1366  python
+ 1367  python fuzzy_zk_ldpc.py 
+ 1368  clear
+ 1369  python fuzzy_zk_ldpc.py 
+ 1370  python evaluateUnlinkability_test.py matedScores.hdf5 nonMatedScores.hdf5 myplot.png 
+ 1371  cd unlinkability-metric/
+ 1372  python evaluateUnlinkability_test.py matedScores.hdf5 nonMatedScores.hdf5 myplot.png 
+ 1373  clear
+ 1374  cd ..
+ 1375  python fuzzy_zk_ldpc.py 
+ 1376  python evaluateUnlinkability_test.py matedScores.csv nonMatedScores.csv myplot2.png 
+ 1377  cd unlinkability-metric/
+ 1378  python evaluateUnlinkability_test.py matedScores.csv nonMatedScores.csv myplot2.png 
+ 1379  python evaluateUnlinkability_test.py matedScores.hdf5 nonMatedScores.hdf5 myplot.png 
+ 1380  python evaluateUnlinkability_test.py matedScores.csv nonMatedScores.csv myplot2.png 
+ 1381  cd ..
+ 1382  python fuzzy_zk_ldpc.py 
+ 1383  cd unlinkability-metric/
+ 1384  python evaluateUnlinkability_test.py matedScores.csv nonMatedScores.csv myplot2.png 
+ 1385  clear
+ 1386  python evaluateUnlinkability_test.py matedScores.csv nonMatedScores.csv myplot2.png 
+ 1387  python evaluateUnlinkability_test.py matedScores.hdf5 nonMatedScores.hdf5 myplot.png 
+ 1388  python evaluateUnlinkability_test.py matedScores.csv nonMatedScores.csv myplot2.png 
+ 1389  ssh -L 5902:localhost:5902 c4058520@sage-303726.ncl.ac.uk
+ 1390  deactivaye
+ 1391  deactivate
+ 1392  cd AdaFace-gamelab/
+ 1393  cd zk_
+ 1394  cd zk_unlinkable/
+ 1395  go run .
+ 1396  cd ..
+ 1397  python extractor.py 
+ 1398  conda activate adaface
+ 1399  python extractor.py 
+ 1400  clear
+ 1401  python extractor.py 
+ 1402  python evaluator.py 
+ 1403  python flip_probability.py 
+ 1404  clear
+ 1405  python extractor.py 
+ 1406  python flip_probability.py 
+ 1407  python fuzzy_sum_product_ldpc.py 
+ 1408  clear
+ 1409  python fuzzy_sum_product_ldpc.py 
+ 1410  cd unlinkability-metric/
+ 1411  python evaluateUnlinkability_test.py matedScores-lfw.csv nonMatedScores-lfw.csv myplot3.png
+ 1412  mysql -u udochify -p 
+ 1413  ssh -L 5902:localhost:5902 c4058520@sage-303726.ncl.ac.uk
+ 1414  sudo apt update
+ 1415  apt list --upgradable 
+ 1416  sudo apt upgrade
+ 1417  sudo apt update
+ 1418  apt list --upgradable 
+ 1419  sudo apt upgrade
+ 1420  suda apt update
+ 1421  sudo apt update
+ 1422  apt upgradable
+ 1423  apt upgradeable
+ 1424  apt list --upgradable
+ 1425  sudo apt upgrade
+ 1426  sudo apt update
+ 1427  sudo apt upgrade
+ 1428  apt sudo update
+ 1429  sudo apt update
+ 1430  sudo apt list --upgradable 
+ 1431  sudo apt upgrade
+ 1432  sudo apt update
+ 1433  sudo apt upgrade
+ 1434  nvidia-smi
+ 1435  sudo apt purge nvidia*
+ 1436  sudo apt autoremove
+ 1437  sudo apt update
+ 1438  sudo ubuntu-drivers install
+ 1439  sudo reboot
+ 1440  sudo apt update
+ 1441  apt list --upgradable 
+ 1442  sudo apt upgrade
+ 1443  sudo ubuntu-drivers install
+ 1444  nvidia-smi
+ 1445  sudo apt clean
+ 1446  sudo apt remove --purge '^nvidia-.*'
+ 1447  sudo apt purge nvidia*
+ 1448  sudo apt autoremove
+ 1449  sudo apt clean
+ 1450  reboot
+ 1451  sudo apt clean
+ 1452  sudo apt autoremove
+ 1453  sudo dpkg --configure -a
+ 1454  sudo apt-get purge "^nvidia-.*"
+ 1455  sudo apt-get autoremove
+ 1456  sudo apt-get install dkms build-essential linux-headers-$(uname -r)
+ 1457  sudo apt-get install nvidia-driver-595
+ 1458  nvidia-smi
+ 1459  sudo dpkg --configure -a
+ 1460  sudo apt-get purge "^nvidia-.*"
+ 1461  sudo apt-get autoremove
+ 1462  sudo dpkg --configure -a
+ 1463  sudo apt-get install nvidia-driver-580
+ 1464  sudo dpkg --configure -a
+ 1465  sudo apt-get autoremove
+ 1466  sudo apt-get purge "^nvidia-.*"
+ 1467  sudo apt-get autoremove
+ 1468  sudo dpkg --configure -a
+ 1469  sudo apt-get install nvidia-driver-575
+ 1470  sudo apt-get purge "^nvidia-.*"
+ 1471  sudo apt-get autoremove
+ 1472  sudo dpkg --configure -a
+ 1473  reboot
+ 1474  sudo apt clean
+ 1475  sudo apt autoremove 
+ 1476  sudo apt-get install nvidia-driver-575
+ 1477  nvidia-smi
+ 1478  sudo apt-get purge "^nvidia-.*"
+ 1479  sudo apt autoremove 
+ 1480  sudo apt clean
+ 1481  nvidia-smi
+ 1482  nvidiaA
+ 1483  sudo apt-get install nvidia-driver-535
+ 1484  sudo apt-get purge "^nvidia-.*"
+ 1485  sudo apt autoremove 
+ 1486  sudo apt clean
+ 1487  sudo apt-get update
+ 1488  sudo apt-get install nvidia-driver-550 nvidia-dkms-550
+ 1489  sudo apt-get remove --purge "^nvidia-.*"
+ 1490  sudo apt-get autoremove --purge
+ 1491  sudo apt-get autoclean
+ 1492  sudo apt-get update
+ 1493  sudo apt-get install build-essential linux-headers-$(uname -r)
+ 1494  sudo ubuntu-drivers install
+ 1495  sudo apt-get remove --purge "^nvidia-.*"
+ 1496  sudo apt-get autoremove
+ 1497  sudo add-apt-repository ppa:graphics-drivers/ppa
+ 1498  sudo apt-get update
+ 1499  sudo ubuntu-drivers install
+ 1500  sudo apt-get install nvidia-driver-550 nvidia-settings nvidia-dkms-550
+ 1501  sudo apt-get remove --purge "^nvidia-.*"
+ 1502  sudo apt-get autoremove
+ 1503  sudo apt-get autoclean
+ 1504  sudo apt-get remove --purge "^nvidia-.*"
+ 1505  sudo apt-get autoclean
+ 1506  sudo apt autoremove 
+ 1507  sudo apt-get remove --purge "^nvidia-.*"
+ 1508  sudo apt autoremove 
+ 1509  sudo apt purge nvidia*
+ 1510  uname -r
+ 1511  dpkg -l|grep linux-image
+ 1512  uname -r
+ 1513  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1514  sudo apt-get autoremove --purge "^libnvidia-.*"
+ 1515  sudo apt-get clean
+ 1516  sudo apt-get update
+ 1517  nvidia-smi
+ 1518  sudo apt-cache policy nvidia-340
+ 1519  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1520  sudo apt-get clean
+ 1521  dpkg -l|grep linux-image
+ 1522  sudo apt-get autoclean
+ 1523  sudo apt-get clean
+ 1524  sudo apt-get autoremove
+ 1525  sudo apt autoremove 
+ 1526  uname -r
+ 1527  sudo apt-get autoremove --purge
+ 1528  sudo apt-get autoclean
+ 1529  sudo apt clean
+ 1530  sudo apt autoremove
+ 1531  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1532  sudo ubuntu-drivers install
+ 1533  nvidia-smi
+ 1534  history | grep nvidia
+ 1535  sudo apt-cache policy nvidia-340
+ 1536  ls -l /proc/driver/nvidia/gpus/
+ 1537  cat /proc/driver/nvidia/gpus/0000:01:00.0/information
+ 1538  nvidia-smi
+ 1539  lspci -k | grep -EA3 'VGA|3D'
+ 1540  sudo prime-select nvidia
+ 1541  nvidia-smi
+ 1542  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1543  sudo apt autoremove
+ 1544  sudo apt clean
+ 1545  sudo apt autoremove
+ 1546  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1547  sudo apt autoremove
+ 1548  sudo apt clean
+ 1549  sudo apt-get autoclean
+ 1550  nvidia-smi
+ 1551  # apt install linux-headers-$(uname -r)
+ 1552  apt install linux-headers-$(uname -r)
+ 1553  sudo apt install linux-headers-$(uname -r)
+ 1554  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1555  sudo apt-get autoclean
+ 1556  sudo apt clean
+ 1557  sudo apt autoremove
+ 1558  uname -r
+ 1559  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1560  sudo apt autoremove
+ 1561  sudo apt install linux-headers-$(uname -r)
+ 1562  sudo wget https://developer.download.nvidia.com/compute/cuda/repos/$distro/x86_64/cuda-keyring_1.1-1_all.deb
+ 1563  lspci | grep -i nvidia
+ 1564  hostnamectl
+ 1565  gcc --version
+ 1566  sudo wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.1-1_all.deb
+ 1567  sudo dpkg -i cuda-keyring_1.1-1_all.deb
+ 1568  sudo apt update
+ 1569  sudo add-apt-repository --remove ppa:graphics-drivers/ppa -y && sudo add-apt-repository --remove ppa:libreoffice/ppa -y
+ 1570  sudo apt update
+ 1571  ls /etc/apt/sources.list.d
+ 1572  sudo rm /etc/apt/sources.list.d/cuda*local*
+ 1573  sudo sed -i 's/deb http/deb [arch=amd64] http/' /etc/apt/sources.list.d/google-chrome.list
+ 1574  sudo apt update
+ 1575  sudo rm /etc/apt/sources.list.d/libreoffice-ubuntu-ppa-jammy.list*
+ 1576  sudo rm /etc/apt/sources.list.d/graphics-drivers-ubuntu-ppa-jammy.list*
+ 1577  sudo apt-get clean
+ 1578  sudo apt-get update
+ 1579  # apt install nvidia-open
+ 1580  sudo apt install nvidia-open
+ 1581  nvidia-smi
+ 1582  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1583  sudo apt autoremove
+ 1584  sudo apt update
+ 1585  sudo sed -i 's/deb http/deb [arch=amd64] http/' /etc/apt/sources.list.d/google-chrome.list
+ 1586  sudo apt update
+ 1587  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1588  sudo apt-get clean
+ 1589  sudo apt autoremove
+ 1590  sudo apt-get clean
+ 1591  sudo dpkg -i cuda-keyring_1.1-1_all.deb
+ 1592  sudo apt update
+ 1593  apt install nvidia-open
+ 1594  sudo apt install nvidia-open
+ 1595  sudo apt autoremove
+ 1596  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1597  sudo apt autoremove
+ 1598  sudo apt install nvidia
+ 1599  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1600  $ lspci | grep VGA
+ 1601  lspci | grep VGA
+ 1602  sudo apt install nvidia-driver-pinning-580
+ 1603  sudo apt install nvidia-open
+ 1604  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1605  sudo apt autoremove
+ 1606  sudo apt install build-essential
+ 1607  sudo apt install linux-headers-6.8.0-110-generic
+ 1608  sudo apt install nvidia-driver-pinning-590
+ 1609  sudo apt install nvidia-driver-pinning-595
+ 1610  lspci | grep VGA
+ 1611  nvidia-smi
+ 1612  dpkg -l|grep linux-image
+ 1613  cat /proc/version_signature
+ 1614  history | grep linux-image
+ 1615  history | grep dpkg
+ 1616  history | grep kernel
+ 1617  history | grep uname
+ 1618  uname -r
+ 1619  uname -a
+ 1620  history | grep gcc
+ 1621  gcc --version
+ 1622  dpkg -l|grep linux-image
+ 1623  sudo apt-get install linux-image-6.8.0-100-generic
+ 1624  dpkg -l|grep linux-image
+ 1625  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1626  sudo apt-get autoremove
+ 1627  sudo apt update
+ 1628  sudo apt-get install linux-image-6.8.0-100-generic linux-headers-6.8.0-100-generic linux-modules-extra-6.8.0-100-generic
+ 1629  reboot
+ 1630  uname -r
+ 1631  sudo apt install cuda-drivers
+ 1632  sudo apt autoremove
+ 1633  sudo apt autoremove --purge "^nvidia-.*"
+ 1634  sudo apt autoremove
+ 1635  sudo apt install cuda-drivers
+ 1636  sudo apt autoremove --purge "^nvidia-.*"
+ 1637  sudo apt autoremove
+ 1638  sudo apt install nvidia-driver-pinning-575
+ 1639  sudo apt autoremove --purge "^nvidia-.*"
+ 1640  sudo apt autoremove
+ 1641  sudo apt install nvidia-driver-pinning-595
+ 1642  sudo apt install cuda-drivers
+ 1643  nano /var/lib/dkms/nvidia/595.71.05/build/make.log
+ 1644  gcc --version
+ 1645  sudo apt autoremove --purge "^nvidia-.*"
+ 1646  sudo apt autoremove
+ 1647  gcc-12 --version
+ 1648  uname -r
+ 1649  sudo apt install gcc-12
+ 1650  gcc --version
+ 1651  sudo ln -s -f /usr/bin/gcc-12 /usr/bin/gcc
+ 1652  gcc --version
+ 1653  gcc-11 --version
+ 1654  deactivate
+ 1655  conda activate adaface
+ 1656  cd AdaFace-gamelab/
+ 1657  python extractor.py 
+ 1658  nvidia
+ 1659  nvidia-smi
+ 1660  uname -r
+ 1661  sudo apt autoremove --purge "^nvidia-.*"
+ 1662  sudo apt autoremove
+ 1663  sudo apt install nvidia-driver-pinning-595
+ 1664  nvidia-smi
+ 1665  sudo apt update
+ 1666  apt list --upgradable 
+ 1667  deactivate
+ 1668  python3 --version
+ 1669  conda activate adaface
+ 1670  python --version
+ 1671  deactivate
+ 1672  conda deactivate
+ 1673  conda create --name zh3 python=3.12
+ 1674  conda activate zk3
+ 1675  conda activate zh3
+ 1676  python --version
+ 1677  conda config --show channels
+ 1678  conda config --show default_channels
+ 1679  conda config --add_channels conda-forge
+ 1680  conda config --add channels conda-forge
+ 1681  conda config --show channels
+ 1682  conda config --show default_channels
+ 1683  conda config --show-sources
+ 1684  conda config --show channels
+ 1685  cd zh3
+ 1686  conda install h3-py
+ 1687  python
+ 1688  deactivate
+ 1689  deactivate
+ 1690  nvidia-smi
+ 1691  deactivate
+ 1692  cd AdaFace-gamelab/
+ 1693  cd zk_xor/
+ 1694  run .
+ 1695  go run .
+ 1696  clear
+ 1697  go run .
+ 1698  nvidia-smi
+ 1699  apt sudo update
+ 1700  sudo apt update
+ 1701  apt list --upgradable 
+ 1702  sudo apt upgrade
+ 1703  nvidia-smi
+ 1704  curl -fsSL https://ollama.com/install.sh | sh
+ 1705  ollama pull gemma4
+ 1706  ollama run gemma4
+ 1707  ollama launch claude --model gemma4
+ 1708  history
+ 1709  curl -fsSL https://claude.ai/install.sh | bash
+ 1710  ollama launch claude --model gemma4
+ 1711  claude
+ 1712  ollama launch claude --model gemma4
+ 1713  curl -fsSL https://claude.ai/install.sh | bas
+ 1714  curl -fsSL https://claude.ai/install.sh | bash
+ 1715  echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc && source ~/.bashrc
+ 1716  claude
+ 1717  ollama launch claude --model gemma4
+ 1718  docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+ 1719  sudo apt  install docker.io
+ 1720  docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+ 1721  sudo docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+ 1722  ollama launch claude --model gemma4
+ 1723  ls
+ 1724  cd Apps/Claude/
+ 1725  ollama launch claude --model gemma4
+ 1726  docker --help
+ 1727  docker ps
+ 1728  sudo docker ps
+ 1729  docker kill --help
+ 1730  sudo docker kill 200~97474e66df3c
+ 1731  sudo docker kill 97474e66df3c
+ 1732  exit
+ 1733  history
+ 1734  sudo docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+ 1735  bluetoothctl
+ 1736  sudo apt update
+ 1737  apt list --upgradable
+ 1738  sudo apt upgrade
+ 1739  nvidia-smi
+ 1740  cuda
+ 1741  nvidia-smi
+ 1742  gcc --version
+ 1743  nvidia-smi
+ 1744  history | grep wget
+ 1745  ls -la
+ 1746  wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.1-1_all.deb
+ 1747  dpkg -i cuda-keyring_1.1-1_all.deb
+ 1748  sudo dpkg -i cuda-keyring_1.1-1_all.deb
+ 1749  sudo apt update
+ 1750  history | grep pinning
+ 1751  apt install nvidia-driver-pinning-595
+ 1752  sudo apt install nvidia-driver-pinning-595
+ 1753  apt install nvidia-open
+ 1754  sudo apt install nvidia-open
+ 1755  history
+ 1756  sudo apt-get autoremove --purge "^nvidia-.*"
+ 1757  sudo apt update
+ 1758  sudo apt upgradable
+ 1759  sudo apt list --upgradable
+ 1760  sudo apt upgrade
+ 1761  sudo apt list --upgradable
+ 1762  nvidia-smi
+ 1763  gcc --version
+ 1764  gcc+ --version
+ 1765  ubuntu-drivers devices
+ 1766  sudo ubuntu-drivers autoinstall
+ 1767  # apt install linux-headers-$(uname -r)
+ 1768  nvidia-smi
+ 1769  history
+ 1770  nvidia-smi
+ 1771  gcc --version
+ 1772  history | grep gcc
+ 1773  gcc-11 --version
+ 1774  history
+ 1775  sudo apt autoremove --purge "^nvidia-.*"
+ 1776  sudo apt autoremove 
+ 1777  sudo apt autoclean
+ 1778  wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.1-1_all.deb
+ 1779  sudo dpkg -i cuda-keyring_1.1-1_all.deb
+ 1780  sudo apt install nvidia-driver-pinning-595
+ 1781  apt install nvidia-open
+ 1782  sudo apt install nvidia-open
+ 1783  nvidia-smi
+ 1784  apt install cuda-drivers
+ 1785  sudo apt install cuda-drivers
+ 1786  nvidia-smi
+ 1787  nvidia-smi
+ 1788  history
+ 1789  nvidia-smi
+ 1790  clear
+ 1791  nvidia-smi
+ 1792  claude
+ 1793  deactivate
+ 1794  ollama launch claude --model gemma4
+ 1795  clear
+ 1796  deactivate
+ 1797  ollama launch claude --model gemma4
+ 1798  clear
+ 1799  cd AdaFace-gamelab/zk_xor/ac/
+ 1800  deactivate
+ 1801  clear
+ 1802  ollama launch claude --model gemma4
+ 1803  claude
+ 1804  ollama launch claude --model gemma4
+ 1805  clear
+ 1806  history
+ 1807  cd udosharedesk-2025/
+ 1808  history | grep composer
+ 1809  history | grep php
+ 1810  php artisan serve
+ 1811  history | grep tiger
+ 1812  ssh -L 5902:localhost:5902 c4058520@sage-303726.ncl.ac.uk
+ 1813  deactivate
+ 1814  clear
+ 1815  history 
+ 1816  history | grep unlink
+ 1817  history | grep vnc
+ 1818  vncviewer localhost:5902
+ 1819  deactivate
+ 1820  clear
+ 1821  history | grep adaface
+ 1822  cd ../../../
+ 1823  cd AdaFace-gamelab-latest/
+ 1824  cd unlinkability-metric/
+ 1825  ls
+ 1826  history | grep python
+ 1827  conda activate adaface
+ 1828  python evaluateUnlinkability_test.py matedScores-lfw.csv nonMatedScores-lfw.csv newplot-lfw.pdf
+ 1829  python evaluateUnlinkability_test.py matedScores-calfw.csv nonMatedScores-calfw.csv newplot-calfw.pdf
+ 1830  python evaluateUnlinkability_test.py matedScores-agedb.csv nonMatedScores-agedb.csv newplot-agedb.pdf
+ 1831  python evaluateUnlinkability_test.py matedScoresProof-lfw.csv nonMatedScoresProof-lfw.csv newplotProof-lfw.pdf
+ 1832  python evaluateUnlinkability_test.py matedScoresProof-calfw.csv nonMatedScoresProof-calfw.csv newplotProof-calfw.pdf
+ 1833  python evaluateUnlinkability_test.py matedScoresProof-agedb.csv nonMatedScoresProof-agedb.csv newplotProof-agedb.pdf
+ 1834  python evaluateUnlinkability_test.py matedScoresVK-lfw.csv nonMatedScoresVK-lfw.csv newplotVK-lfw.pdf
+ 1835  python evaluateUnlinkability_test.py matedScoresVK-calfw.csv nonMatedScoresVK-calfw.csv newplotVK-calfw.pdf
+ 1836  python evaluateUnlinkability_test.py matedScoresVK-agedb.csv nonMatedScoresVK-agedb.csv newplotVK-agedb.pdf
+ 1837  scp
+ 1838  scp c4058520@sage-303726:~/README/docker.md ~/Desktop
+ 1839  scp c4058520@sage-303726:/home/c4058520/Desktop/ZK/AdaFace-gamelab-latest.zip /home/udochify/Desktop/
+ 1840  ssh -L 5902:localhost:5902 c4058520@sage-303726.ncl.ac.uk
+ 1841  sudo apt update
+ 1842  apt list --upgradable 
+ 1843  sudo apt upgrade
+ 1844  nvidia-smi
+ 1845  history | grep conda
+ 1846  conda env list
+ 1847  conda create --name hexagon
+ 1848  conda update -n base -c conda-forge conda
+ 1849  conda activate hexagon
+ 1850  pip install numpy
+ 1851  pip freeze
+ 1852  pip install matplotlib
+ 1853  python hexagon.py
+ 1854  history | grep python
+ 1855  python3 hexagon.py
+ 1856  nvidia-smi
+ 1857  sudo apt update
+ 1858  sudo apt upgrade
+ 1859  cd zk_location/
+ 1860  history | grep go
+ 1861  go run .
+ 1862  export PATH=$PATH:/usr/local/go/bin
+ 1863  go version
+ 1864  go run .
+ 1865  cd ../zk_xor/
+ 1866  go run .
+ 1867  cd ac
+ 1868  go run .
+ 1869  cd ..
+ 1870  go run .
+ 1871  cd ../zk_location/
+ 1872  go run .
+ 1873  clear
+ 1874  go run .
+ 1875  python3 hexagon.py 
+ 1876  go version
+ 1877  sudo apt update
+ 1878  sudo apt upgrade
+ 1879  which CMake
+ 1880  Which Make
+ 1881  which Make
+ 1882  which gcc
+ 1883  which clang
+ 1884  sudo apt install cmake make gcc libtool
+ 1885  which CMake
+ 1886  which Make
+ 1887  which cmake
+ 1888  which make
+ 1889  which clang
+ 1890  cd Desktop/ZK2
+ 1891  git clone https://github.com/uber/h3.git
+ 1892  ls
+ 1893  cd h3
+ 1894  ls
+ 1895  mkdir build
+ 1896  cd build
+ 1897  cmake -DCMAKE_BUILD_TYPE=Release ..
+ 1898  git checkout v$(<VERSION)
+ 1899  cd ..
+ 1900  git checkout v$(<VERSION)
+ 1901  ls
+ 1902  cd ..
+ 1903  cd ~/Desktop/ZK2
+ 1904  clear
+ 1905  git clone https://github.com/uber/h3.git
+ 1906  cd h3
+ 1907  git checkout v$(<VERSION)
+ 1908  mkdir build
+ 1909  cd build
+ 1910  cmake -DCMAKE_BUILD_TYPE=Release ..
+ 1911  make
+ 1912  ls
+ 1913  sudo make install
+ 1914  which Doxygen
+ 1915  ls
+ 1916  make docs
+ 1917  sudo make uninstall
+ 1918  sudo xargs rm < install_manifest.txt
+ 1919  which h3
+ 1920  ls /usr/local/bin/h3
+ 1921  ls /usr/local/bin/h3
+ 1922  nano install_manifest.txt 
+ 1923  cd ../,,
+ 1924  cd ../..
+ 1925  clear
+ 1926  ls
+ 1927  cd ../h3/
+ 1928  cd examples
+ 1929  cc -lh3 index.c -o example
+ 1930  cd ..
+ 1931  cc -lh3 examples/index.c -o example
+ 1932  cd build
+ 1933  make kml 
+ 1934  cd ../..
+ 1935  git clone https://github.com/udochify/h4.git
+ 1936  cd h4
+ 1937  mkdir build
+ 1938  cd build
+ 1939  cmake -DCMAKE_BUILD_TYPE=Release ..
+ 1940  make
+ 1941  cd ../..
+ 1942  rm -rf h4
+ 1943  git clone https://github.com/udochify/h4.git
+ 1944  cd h4
+ 1945  mkdir build
+ 1946  cd build
+ 1947  cmake -DCMAKE_BUILD_TYPE=Release ..
+ 1948  make
+ 1949  ls
+ 1950  cc -lh3 examples/index.c -o example
+ 1951  cd..
+ 1952  cd ..
+ 1953  history
+ 1954  cmake --install build --prefix "$PWD/build/h4-local"
+ 1955  cc examples/index.c -I"$PWD/build/h4-local/include" "$PWD/build/h4-local/lib/libh3.a" -lm -o example
+ 1956  ./example
+ 1957  cc examples/udoTest.c -I"$PWD/build/h4-local/include" "$PWD/build/h4-local/lib/libh3.a" -lm -o example
+ 1958  ./example
+ 1959  cc examples/udoTest.c -I"$PWD/build/h4-local/include" "$PWD/build/h4-local/lib/libh3.a" -lm -o example
+ 1960  cc examples/udoTest.c   -I"$PWD/build/h4-local/include"   -I"$PWD/src/h3lib/include"   -I"$PWD/build/src/h3lib/include"   "$PWD/build/h4-local/lib/libh3.a" -lm   -o example
+ 1961  ./example
+ 1962  cc examples/udoTest.c   -I"$PWD/build/h4-local/include"   -I"$PWD/src/h3lib/include"   -I"$PWD/build/src/h3lib/include"   "$PWD/build/h4-local/lib/libh3.a" -lm   -o example
+ 1963  ./example
+ 1964  cc examples/udoTest.c   -I"$PWD/build/h4-local/include"   -I"$PWD/src/h3lib/include"   -I"$PWD/build/src/h3lib/include"   "$PWD/build/h4-local/lib/libh3.a" -lm   -o example
+ 1965  ./example
+ 1966  cd h3
+ 1967  cc -lh3 examples/index.c -o example
+ 1968  cc examples/index.c $(pkg-config --cflags --libs h3) -o example
+ 1969  ./example
+ 1970  cd ../test_location/
+ 1971  cc index.c $(pkg-config --cflags --libs h3) -o example
+ 1972  ./example
+ 1973  sudo apt install clang-format cmake-curses-gui lcov doxygen
+ 1974  git clone https://github.com/uber/h3.git
+ 1975  cd Desktop/ZK2
+ 1976  git clone https://github.com/uber/h3.git
+ 1977  LS
+ 1978  ls
+ 1979  which Doxygen
+ 1980  cd h3
+ 1981  git checkout v$(<VERSION)
+ 1982  mkdir build
+ 1983  cd build
+ 1984  cmake -DCMAKE_BUILD_TYPE=Release ..
+ 1985  cd ..
+ 1986  rm -rf build
+ 1987  ls
+ 1988  mkdir build
+ 1989  sudo apt install clang-tidy
+ 1990  cd build
+ 1991  cmake -DCMAKE_BUILD_TYPE=Release ..
+ 1992  make
+ 1993  make benchmarks
+ 1994  sudo make install
+ 1995  ./bin/latLngToCell --resolution 10 --latitude 40.689167 --longitude -74.044444
+ 1996  latLngToCell --resolution 10 --latitude 40.689167 --longitude -74.044444
+ 1997  ls
+ 1998  make docs
+ 1999  sudo make docs
+ 2000  cd ../zete
+ 2001  history

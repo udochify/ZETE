@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" width="100%" height="100%">
+  <style>
+    .zete-text {
+      font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 110px;
+      fill: #000000;
+      letter-spacing: 4px;
+    }
+  </style>
+  <text x="50" y="115" class="zete-text">ZETE</text>
+</svg>
