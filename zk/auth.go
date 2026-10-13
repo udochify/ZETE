@@ -1,3 +1,10 @@
+/*
+__author__ = "Udochukwu C. Enwerem"
+__copyright__ = "Copyright (C) 2026 Udochukwu C. Enwerem"
+__license__ = "https://github.com/udochify/ZETE/blob/main/LICENSE.txt"
+__version__ = "1.0"
+*/
+
 package main
 
 import (

@@ -65,7 +65,7 @@ ZETE is an enhanced fuzzy commitment scheme that utilizes a zero-knowledge (zk) 
 
 ## License & Usage
 
-Copyright (c) 2026 Udochukwu Enwerem. All rights reserved.
+Copyright (c) 2026 Udochukwu C. Enwerem. All rights reserved.
 
 This repository and its source code are strictly for educational/viewing purposes. 
 Commercial use, reproduction, or redistribution without prior written consent is strictly prohibited.

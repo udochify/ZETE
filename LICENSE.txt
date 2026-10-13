@@ -1,4 +1,4 @@
-Copyright (c) 2026 Udochukwu Enwerem. All Rights Reserved.
+Copyright (c) 2026 Udochukwu C. Enwerem. All Rights Reserved.
 
 No part of this software, code, or documentation may be copied, modified, 
 reproduced, distributed, or used for commercial or non-commercial purposes 
