@@ -3,13 +3,13 @@
 
 ZETE is an enhanced fuzzy commitment scheme that utilizes a zero-knowledge (zk) proof.
 
-<b>It comprises 3 applications:</b>
+<b>It comprises 3 application servers:</b>
 
-<b>1.</b> Laravel 12 Web Application – For UI and interfacing with users
+<b>1.</b> Laravel 12 Web Application server – For UI and interfacing with users
 
-<b>2.</b> Python Application – For Face recognition and interfacing the Web application with the Go ZK application
+<b>2.</b> Python Application server – For Face recognition (using AdaFace <a href="#ref1">[1]</a>), Error Correction (using LDPC <a href="#ref2">[2]</a>/SPA <a href="#ref3">[3]</a>) and interfacing the Web application with the Go ZK application
 
-<b>3.</b> Go ZK Application – For generating and verifying zk proofs.
+<b>3.</b> Go ZK Application server– For generating and verifying zk proofs (using GNARK <a href="#ref4">[4]</a>).
 
 <b>B. PREREQUISITE</b>
 
@@ -62,6 +62,16 @@ ZETE is an enhanced fuzzy commitment scheme that utilizes a zero-knowledge (zk) 
 	cd zete/zk
 
 	go run .
+
+## References
+
+<span id="ref1">M. Kim, A. K. Jain, and X. Liu, "AdaFace: Quality adaptive margin for face recognition," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), New Orleans, LA, USA, 2022, pp. 18729--18738, https://doi.org/10.1109/CVPR52688.2022.01819. </span>
+
+<span id="ref2">R. Gallager, ``Low-density parity-check codes,'' IRE Trans. Inf. Theory, vol. 8, no. 1, pp. 21--28, Jan. 1962, https://10.1109/TIT.1962.1057683. </span>
+
+<span id="ref3">F. R. Kschischang, B. J. Frey, and H.-A. Loeliger, "Factor graphs and the sum-product algorithm," IEEE Trans. Inf. Theory, vol. 47, no. 2, pp. 498--519, Feb. 2001, https://doi.org/10.1109/18.910572.</span>
+
+<span id="ref4">GNARK API Documentation, https://docs.gnark.consensys.io/Reference/api.</span>
 
 ## License & Usage
 
