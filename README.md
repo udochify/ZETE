@@ -65,13 +65,13 @@ ZETE is an enhanced fuzzy commitment scheme that utilizes a zero-knowledge (zk) 
 
 ## References
 
-<span id="ref1">M. Kim, A. K. Jain, and X. Liu, "AdaFace: Quality adaptive margin for face recognition," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), New Orleans, LA, USA, 2022, pp. 18729--18738, https://doi.org/10.1109/CVPR52688.2022.01819. </span>
+<span id="ref1">M. Kim, A. K. Jain, and X. Liu, "AdaFace: Quality adaptive margin for face recognition," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), New Orleans, LA, USA, 2022, pp. 18729--18738, <a href="https://doi.org/10.1109/CVPR52688.2022.01819" target="_blank" rel="noopener noreferrer">https://doi.org/10.1109/CVPR52688.2022.01819</a>. </span>
 
-<span id="ref2">R. Gallager, ``Low-density parity-check codes,'' IRE Trans. Inf. Theory, vol. 8, no. 1, pp. 21--28, Jan. 1962, <a target="_blank" rel="noopener noreferrer">https://doi.org/10.1109/TIT.1962.1057683</a>. </span>
+<span id="ref2">R. Gallager, "Low-density parity-check codes," IRE Trans. Inf. Theory, vol. 8, no. 1, pp. 21--28, Jan. 1962, <a href="https://doi.org/10.1109/TIT.1962.1057683" target="_blank" rel="noopener noreferrer">https://doi.org/10.1109/TIT.1962.1057683</a>. </span>
 
-<span id="ref3">F. R. Kschischang, B. J. Frey, and H.-A. Loeliger, "Factor graphs and the sum-product algorithm," IEEE Trans. Inf. Theory, vol. 47, no. 2, pp. 498--519, Feb. 2001, https://doi.org/10.1109/18.910572.</span>
+<span id="ref3">F. R. Kschischang, B. J. Frey, and H.-A. Loeliger, "Factor graphs and the sum-product algorithm," IEEE Trans. Inf. Theory, vol. 47, no. 2, pp. 498--519, Feb. 2001, <a href="https://doi.org/10.1109/18.910572" target="_blank" rel="noopener noreferrer">https://doi.org/10.1109/18.910572</a>.</span>
 
-<span id="ref4">GNARK API Documentation, https://docs.gnark.consensys.io/Reference/api.</span>
+<span id="ref4">GNARK API Documentation, <a href="https://docs.gnark.consensys.io/Reference/api" target="_blank" rel="noopener noreferrer">https://docs.gnark.consensys.io/Reference/api</a>.</span>
 
 ## License & Usage
 
