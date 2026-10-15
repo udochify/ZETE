@@ -1,5 +1,5 @@
 # ZETE
-## <b>A. INTRODUCTION</b>
+## <b>A. Introduction</b>
 
 ZETE is an enhanced fuzzy commitment scheme that utilizes a zero-knowledge (zk) proof.
 
@@ -11,7 +11,7 @@ ZETE is an enhanced fuzzy commitment scheme that utilizes a zero-knowledge (zk) 
 
 <b>3.</b> Go ZK Application server– For generating and verifying zk proofs (using GNARK <a href="#ref4">[4]</a>).
 
-## <b>B. PREREQUISITE</b>
+## <b>B. Prerequisite</b>
 
 <b>1.</b> Laravel 12
 
@@ -19,7 +19,7 @@ ZETE is an enhanced fuzzy commitment scheme that utilizes a zero-knowledge (zk) 
 
 <b>3.</b> Go 1.26.1
 
-## <b>C. PREINSTALLATION INSTRUCTIONS</b>
+## C. Preinstallation Instructions
 
 <b>1.</b> See <a href="https://laravel.com/framework/docs/12.x/installation">instructions on how to setup Composer and Laravel 12</a>
 
@@ -37,7 +37,7 @@ ZETE is an enhanced fuzzy commitment scheme that utilizes a zero-knowledge (zk) 
 
 <b>6.</b> Copy the downloaded model into the "pretrained" folder
 
-## <b>D. INSTALLATION INSTRUCTIONS</b>
+## <b>D. Installation Instructions</b>
 
 <b>1.</b> Run the Laravel Web Application
    
